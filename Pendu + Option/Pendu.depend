@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1634580396 source:c:\users\julien\documents\limayrac\ratrapage\pendu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	"dico.h"
+
+1634316212 c:\users\julien\documents\limayrac\ratrapage\pendu\dico.h
+
+1634319465 c:\users\julien\documents\limayrac\ratrapage\pendu\dico.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"dico.h"
+
+1634319465 source:c:\users\julien\documents\limayrac\ratrapage\pendu\dico.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"dico.h"
+
+1634319465 source:c:\users\julien\documents\limayrac\ratrapage\pendu + option\dico.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"dico.h"
+
+1634316212 c:\users\julien\documents\limayrac\ratrapage\pendu + option\dico.h
+
+1635084920 source:c:\users\julien\documents\limayrac\ratrapage\pendu + option\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	"dico.h"
+
